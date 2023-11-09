@@ -1,4 +1,4 @@
-# ![Rails Example App](project-logo.png)
+# ![Rails Example App](project-logo.png) for Acme Corp IT
 
 > Example Rails codebase that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) API spec.
 
